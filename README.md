@@ -7,6 +7,10 @@
 
 - Email:  darrenmlouw@gmail.com
 - Cell:   +27828771881
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrenmlouw&count_private=true&show_icons=true&theme=radical&text_color=D0D0D0&border_color=FF69B4&include_all_commits=true&custom_title=Darren&nbsp;Louw's&nbsp;Statistics&layout=false&line_height=27)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrenmlouw&langs_count=3&theme=radical&card_width=495&border_color=4d88ff&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Some Fun:
 ```
 #include <BOT.h>
@@ -25,6 +29,7 @@ int main()
   }
 }
 ```
+
 
 <!---
 darrenmlouw/darrenmlouw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
