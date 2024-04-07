@@ -12,7 +12,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrenmlouw&count_private=true&show_icons=true&theme=radical&text_color=D0D0D0&border_color=FF69B4&include_all_commits=true&custom_title=Darren&nbsp;Louw's&nbsp;Statistics&layout=false&line_height=27)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrenmlouw&langs_count=3&theme=radical&card_width=495&border_color=4d88ff&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 --
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=darrenmlouw&theme=react-dark&line=4d88ff&area_color=a6c3ff&custom_title=Activity%20Timeline)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Some Fun:
 ```C++
